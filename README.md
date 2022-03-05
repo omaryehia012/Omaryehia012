@@ -14,7 +14,7 @@ ________________________________________________________________________________
 # <div align="center"> ===========> Certifications <============
 + [Egyfwd | Data Analysis Professional](https://github.com/omaryehia012/Certifications/blob/main/Egyfwd/Data%20Analysis%20Professional.png)
 + [Egyfwd | Data Challenger track](https://github.com/omaryehia012/Certifications/blob/main/Egyfwd/Data%20Challenger%20Track.png)                                                 
-+ [IBM | Data Science Methodology](https://github.com/omaryehia012/Certifications/blob/main/IBM%20Data%20Science/Data%20Science%20Methodology.png)
++ [Coursera | IBM Data Science](https://github.com/omaryehia012/Certifications/tree/main/IBM%20Data%20Science)
                                                       
                                                       
 # <div align="center"> ===========> 🔧 Technical Skills <============
