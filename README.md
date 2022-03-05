@@ -15,7 +15,8 @@ ________________________________________________________________________________
 + [Egyfwd | Data Analysis Professional](https://github.com/omaryehia012/Certifications/blob/main/Egyfwd/Data%20Analysis%20Professional.png)
 + [Egyfwd | Data Challenger track](https://github.com/omaryehia012/Certifications/blob/main/Egyfwd/Data%20Challenger%20Track.png)                                                 
 + [Coursera | IBM Data Science](https://github.com/omaryehia012/Certifications/tree/main/IBM%20Data%20Science)
-                                                      
++ [Maharatech | ITIOOCA](https://github.com/omaryehia012/Certifications/tree/main/ITI)
++ [Kaggle | basic and advanced SQL](https://github.com/omaryehia012/Certifications/tree/main/Kaggle)                                                      
                                                       
 # <div align="center"> ===========> 🔧 Technical Skills <============
 ![image](https://user-images.githubusercontent.com/93586279/156890037-ade4ff0a-ad2c-463b-bc00-c55bdfa91092.png)
