@@ -12,12 +12,7 @@ ________________________________________________________________________________
 ### Machine Learning Projects:
 
 # <div align="center"> ===========> Certifications <============
-
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
++ https://github.com/omaryehia012/Certifications/blob/main/Egyfwd/Data%20Analysis%20Professional.png
 
 
 # <div align="center"> ===========> 🔧 Technical Skills <============
