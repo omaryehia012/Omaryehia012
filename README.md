@@ -12,7 +12,7 @@ ________________________________________________________________________________
 ### Machine Learning Projects:
 
 # <div align="center"> ===========> Certifications <============
-+ Egyfwd/Data Analysis Professional.png
++ [Data Analysis Professional](https://github.com/omaryehia012/Certifications/blob/main/Egyfwd/Data%20Analysis%20Professional.png)
 
 
 # <div align="center"> ===========> 🔧 Technical Skills <============
