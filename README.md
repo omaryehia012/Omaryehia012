@@ -4,6 +4,13 @@ ________________________________________________________________________________
 
 ### About Me:
 ##### A Junior AI Engineer who is passionate about Data Analysis, Data Science, Machine Learning, and other branches of AI, has good hands-on experience. Hold a postgraduate diploma in AI from Epsilon AI.
+  
+## 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+<a href="https://www.kaggle.com/omarmohamedyehia"><img src="https://img.shields.io/badge/-Mohsin%20Raza-0077B5?style=flat&logo=kaggle&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/omar-mohamed-yehia-70744a117/"><img src="https://img.shields.io/badge/-Mohsin%20Raza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:omaryehia012@gmail.com"><img src="https://img.shields.io/badge/-raazabc60@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100004263499303"><img src="https://img.shields.io/badge/-@mohsinraa-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>  
 
 # <div align="center"> ===========> Projects <============
 
