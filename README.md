@@ -12,12 +12,6 @@ ________________________________________________________________________________
 <a href="mailto:omaryehia012@gmail.com"><img src="https://img.shields.io/badge/-omaryehia012@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100004263499303"><img src="https://img.shields.io/badge/-@omaryehia-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>  
 
-# <div align="center"> ===========> Projects <============
-
-### Data Analysis Projects:
-
-### Machine Learning Projects:
-
 # <div align="center"> ===========> Certifications <============
 + [Egyfwd | Data Analysis Professional](https://github.com/omaryehia012/Certifications/blob/main/Egyfwd/Data%20Analysis%20Professional.png)
 + [Egyfwd | Data Challenger track](https://github.com/omaryehia012/Certifications/blob/main/Egyfwd/Data%20Challenger%20Track.png)                                                 
