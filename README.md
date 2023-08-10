@@ -1,9 +1,10 @@
   # <div align="center"> Hi 👋 , This is Omar Mohamed Yehia
 _________________________________________________________________________________________________________________________________________________________________________
- ## <div align="center"> Data Analyst | Data Scientist 
+ ## <div align="center"> Data Engineer | Data Scientist 
 
 ### About Me:
-##### A Junior AI Engineer who is passionate about Data Analysis, Data Science, Machine Learning, and other branches of AI, has good hands-on experience. Hold a postgraduate diploma in AI from Epsilon AI.
+##### Experienced Data Engineer with a strong background in Python, Java, SQL, NoSQL, and AWS services. Proficient in designing, implementing, and optimizing data pipelines for various applications. Led successful data migration projects, enhancing accessibility and enabling data-driven decisions. Adept at utilizing AWS services like Lambda, Redshift, S3, SNS, Athena, and DynamoDB to build scalable and efficient data solutions. Architected data warehouse solutions using AWS Glue, automating data ingestion from MongoDB to Redshift. Implemented automated reporting mechanisms for streamlined analysis. Passionate about data-driven decision-making, applying data science and machine learning algorithms to solve complex business challenges. Skilled in handling both SQL and NoSQL databases, including MongoDB and DynamoDB transactions. Collaborative team player with excellent communication skills, facilitating effective cross-functional teamwork. Committed to continuous learning, staying up-to-date with the latest data engineering trends and technologies. Open to new opportunities to contribute my expertise to a dynamic organization that values innovation and embraces data as a strategic asset. Excited to take on new challenges and contribute to the success of the team and organization.
+.
   
 ## 🤝🏻 &nbsp;Connect with Me
 <p align="center">
@@ -11,13 +12,7 @@ ________________________________________________________________________________
 <a href="https://www.linkedin.com/in/omar-mohamed-yehia-70744a117/"><img src="https://img.shields.io/badge/-Omar M.yehia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:omaryehia012@gmail.com"><img src="https://img.shields.io/badge/-omaryehia012@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100004263499303"><img src="https://img.shields.io/badge/-@omaryehia-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>  
-
-# <div align="center"> ===========> Certifications <============
-+ [Egyfwd | Data Analysis Professional](https://github.com/omaryehia012/Certifications/blob/main/Egyfwd/Data%20Analysis%20Professional.png)
-+ [Egyfwd | Data Challenger track](https://github.com/omaryehia012/Certifications/blob/main/Egyfwd/Data%20Challenger%20Track.png)                                                 
-+ [Coursera | IBM Data Science](https://github.com/omaryehia012/Certifications/tree/main/IBM%20Data%20Science)
-+ [Maharatech | ITIOOCA](https://github.com/omaryehia012/Certifications/tree/main/ITI)
-+ [Kaggle | basic and advanced SQL](https://github.com/omaryehia012/Certifications/tree/main/Kaggle)                                                      
+                                                    
                                                       
 # <div align="center"> ===========> 🔧 Technical Skills <============
 ![image](https://user-images.githubusercontent.com/93586279/156890037-ade4ff0a-ad2c-463b-bc00-c55bdfa91092.png)
